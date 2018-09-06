@@ -6,8 +6,3 @@ Steps for use:
 3)  Download usearch_script.bash and R_script.R (https://github.com/thackmann/sequence-identities).
 4)  Run USEARCH_script.bash on USEARCH.
 5)  Run R_script.bash on R.
-
-Details can be found in ref (1).
-
-Reference
-1.  Hackmann, T.J. (2018) Correcting nucleic acid sequence identities for errors in sequencing. Submitted.
